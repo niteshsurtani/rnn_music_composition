@@ -4,6 +4,10 @@ This code implements a recurrent neural network trained to generate classical mu
 
 You can read about its design and hear examples on [this blog post](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/). 
 
+<audio controls="">
+    <source src="nnet_music.mp3" type="audio/mpeg">
+</audio>
+
 ## Requirements
 
 This code is written in Python, and depends on having Theano and theano-lstm (which can be installed with pip) installed. The bare minimum you should need to do to get everything running, assuming you have Python, is
